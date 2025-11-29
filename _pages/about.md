@@ -13,8 +13,10 @@ My research interests includes Retrieval Augmented Generation(RAG), Large Langua
 
 In the past, I've been focused on applied computing on healthcare and autonomous driving. 
 To be specific, I participated in designing and implementing the following projects:
-A drug recommendation system based on knowledge graph and retrieval-augmented generation technology.
-A Autonomous Driving Multi-object Recognition System based on YOLO model.
+- A drug recommendation system based on knowledge graph and retrieval-augmented generation technology.
+- A Autonomous Driving Multi-object Recognition System based on YOLO model.
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to contact me at [Email](mailto:Tianpeiyang0617@outlook.com)
 
 
 
