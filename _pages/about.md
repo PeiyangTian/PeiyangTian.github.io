@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from Detroit Green Technology Institude, [Hubei University of Technology](https://www.hbut.edu.cn/). My research interests includes Retrieval Augmented Generation(RAG), Large Language Model, autonomous driving target recognition, Machine Learning and Deep Learning.
+Hey! I am Peiyang Tian. I'm a senior undergraduate student majoring in software engineering from Detroit Green Technology Institude(Joint institude of Hubei University of Technology and Detroit Mercy University), [Hubei University of Technology](https://www.hbut.edu.cn/). 
+
+My research interests includes Retrieval Augmented Generation(RAG), Large Language Model, autonomous driving target recognition, Machine Learning and Deep Learning.
+
+In the past, I've been focused on applied computing on healthcare and autonomous driving. 
+To be specific, I participated in designing and implementing the following projects:
+A drug recommendation system based on knowledge graph and retrieval-augmented generation technology.
+A Autonomous Driving Multi-object Recognition System based on YOLO model.
+
+
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
