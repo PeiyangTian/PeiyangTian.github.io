@@ -18,6 +18,7 @@ To be specific, I participated in designing and implementing the following proje
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to contact me at [Tianpeiyang0617@outlook.com](mailto:Tianpeiyang0617@outlook.com)
 
+You can find my CV here [My CV](../assets/Peiyang_Tian_CV.pdf)
 
 A data-driven personal website
 ======
