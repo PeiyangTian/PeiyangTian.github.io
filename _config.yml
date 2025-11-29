@@ -26,19 +26,19 @@ author:
   avatar           : "profile.jpg"
   name             : "Peiyang Tian"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineering, Hubei University of Technology & University of Detroit Mercy(joint degree)"
+  bio              : "Software Engineering, Hubei University of Technology & University of Detroit Mercy (joint degree)"
   email            : "Tianpeiyang0617@outlook.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
