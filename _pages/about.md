@@ -16,12 +16,8 @@ To be specific, I participated in designing and implementing the following proje
 - A drug recommendation system based on knowledge graph and retrieval-augmented generation technology.
 - A Autonomous Driving Multi-object Recognition System based on YOLO model.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to contact me at [Email](mailto:Tianpeiyang0617@outlook.com)
+If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to contact me at [Tianpeiyang0617@outlook.com](mailto:Tianpeiyang0617@outlook.com)
 
-
-
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
